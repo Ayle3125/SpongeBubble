@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Bells.mp3</file>
+        <file>biubiu.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bullet.png</file>
+        <file>bgd.jpg</file>
+        <file>patrick.png</file>
+        <file>sponge.png</file>
+        <file>sponge1.png</file>
+        <file>biaoti1.png</file>
+        <file>biaoti2.png</file>
+    </qresource>
+</RCC>

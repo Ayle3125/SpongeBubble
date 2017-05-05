@@ -1,0 +1,27 @@
+                              README
+
+                           SpongeBubble 
+                          2D射击类小游戏（炒鸡小清新的小游戏+简单粗暴的操作）
+                             Version 1.0
+                             2015/06/01
+
+================================================
+   Deploying Applications with the Qt5.2.1 Environment
+================================================
+
+
+1. 仅支持Windows平台下运行，如没有配置qt环境，请将“work”文件夹完全解压后打开（请不要修改其他文件）		
+
+2. source源码中存放的是qt下可运行代码。
+
+3. final paper为课程设计说明文档。
+
+
+
+
+----------------------------------------------------
+		      
+                      Feedback：QQ 910279469 Ayle. 
+			Email ayle3125@gmail.com
+                           All rights reserved.
+
