@@ -1,7 +1,7 @@
                               README
 
                            SpongeBubble 
-                          2D�����С��Ϸ������С���µ�С��Ϸ+�򵥴ֱ��Ĳ�����
+                          2D射击类小游戏（炒鸡小清新的小游戏+简单粗暴的操作）
                              Version 1.0
                              2015/06/01
 
@@ -10,18 +10,18 @@
 ================================================
 
 
-1. ��֧��Windowsƽ̨�����У���û������qt�������뽫��work���ļ�����ȫ��ѹ��򿪣��벻Ҫ�޸������ļ���		
+1. 仅支持Windows平台下运行，如没有配置qt环境，请将“work”文件夹完全解压后打开（请不要修改其他文件）		
 
-2. sourceԴ���д�ŵ���qt�¿����д��롣
+2. source源码中存放的是qt下可运行代码。
 
-3. final paperΪ�γ����˵���ĵ���
+3. final paper为课程设计说明文档。
 
 
 
 
 ----------------------------------------------------
 		      
-                      Feedback��QQ 910279469 Ayle. 
+                      Feedback：QQ 910279469 Ayle. 
 			Email ayle3125@gmail.com
+感谢youtube教程：https://www.youtube.com/playlist?list=PLMgDVIa0Pg8WrI9WmZR09xAbfXyfkqKWy
                            All rights reserved.
-
